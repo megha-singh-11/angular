@@ -7,8 +7,8 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'ang';
-  let sample= 'megha';
-  let sample= 'megha';
+   sample= 'megha';
+  sample= 'megha';
    sample= 'megha';
   sample= 'megha';
    sample= 'megha';
