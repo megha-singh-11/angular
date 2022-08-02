@@ -9,4 +9,12 @@ export class AppComponent {
   title = 'ang';
   sample= 'megha';
   sample= 'megha';
+   sample= 'megha';
+  sample= 'megha';
+   sample= 'megha';
+  sample= 'megha';
+   sample= 'megha';
+  sample= 'megha';
+   sample= 'megha';
+  sample= 'megha';
 }
