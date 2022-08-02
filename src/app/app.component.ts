@@ -19,15 +19,15 @@ export class AppComponent {
   sample= 'megha';
   
   add1(){
-    var c=2+5;
+    return 1;
   }
    add2(){
-    var c=2+5;
+    return 1;
   }
    add3(){
-    var c=2+5;
+    return 1;
   }
    add4(){
-    var c=2+5;
+    return 1;
   }
 }
