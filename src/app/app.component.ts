@@ -23,12 +23,12 @@ export class AppComponent {
     console.log(c);
   }
    add2(){
-    let c=2;
+    let a=2;
   }
    add3(){
-    let c=2;
+    let b=2;
   }
    add4(){
-    let c=2;
+    let d=2;
   }
 }
