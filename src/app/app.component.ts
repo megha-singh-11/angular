@@ -19,15 +19,23 @@ export class AppComponent {
   sample= 'megha';
   
   add1(){
-    let c=2;
+    var a=2;
+    var b=4;
+    var c=a+b;
   }
    add2(){
-    let c=2;
+     var a=2;
+    var b=4;
+    var c=a+b;
   }
    add3(){
-    let b=2;
+     var a=2;
+    var b=4;
+    var c=a+b;
   }
    add4(){
-    let d=2;
+     var a=2;
+    var b=4;
+    var c=a+b;
   }
 }
