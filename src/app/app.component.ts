@@ -7,8 +7,8 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'ang';
-  sample= 'megha';
-  sample= 'megha';
+  let sample= 'megha';
+  let sample= 'megha';
    sample= 'megha';
   sample= 'megha';
    sample= 'megha';
@@ -20,6 +20,7 @@ export class AppComponent {
   
   add1(){
     let c=2;
+    console.log(c);
   }
    add2(){
     let c=2;
