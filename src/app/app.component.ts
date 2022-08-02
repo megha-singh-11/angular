@@ -20,10 +20,9 @@ export class AppComponent {
   
   add1(){
     let c=2;
-    console.log(c);
   }
    add2(){
-    let a=2;
+    let c=2;
   }
    add3(){
     let b=2;
